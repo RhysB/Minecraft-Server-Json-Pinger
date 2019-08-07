@@ -1,0 +1,6 @@
+name: AtlisPING
+author: Johny
+description: Sends ping with playercount
+main: com.johnymuffin.serverping.AtlisPing
+version: 1.1
+website: https://www.johnymuffin.com/
